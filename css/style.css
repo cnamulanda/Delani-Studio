@@ -4,21 +4,8 @@
     left:50%;
     transform:translate(-50%,-50%);
 }
-h1{
- color: white   
-  .icon-showing {
+
+.icon-showing {
     display: none;
   }
-
-  .clickable {
-    cursor: pointer;
-}
-.text{
-    /*display:none;*/
-    overflow: hidden;
-}
-
-
-  .clickable:hover {
-    text-decoration: underline;
-  }
+  
