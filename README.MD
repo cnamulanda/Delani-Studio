@@ -6,7 +6,7 @@ The project allowed us to create a weboage using skill that we have learned in t
 ## Setup/Installation Requirements
 * Git clone link of the repository to local machine
 * CD into a folder named 'Delani Studio'
-* Opened index.html from a browser
+* Open index.html from a browser
 ## Technologies Used
 Languages used HTML, CSS and JavaScript,JQuery
 ## Support and contact details
